@@ -1,0 +1,32 @@
+[
+  {
+    "username": "superuser",
+    "password": "superuser",
+    "role": "superuser"
+  },
+  {
+    "username": "su1",
+    "password": "su1",
+    "role": "superuser"
+  },
+  {
+    "username": "su2",
+    "password": "su2",
+    "role": "superuser"
+  },
+  {
+    "username": "user",
+    "password": "user",
+    "role": "user"
+  },
+  {
+    "username": "user1",
+    "password": "user1",
+    "role": "user"
+  },
+  {
+    "username": "user2",
+    "password": "user2",
+    "role": "user"
+  }
+]
